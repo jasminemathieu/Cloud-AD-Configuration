@@ -22,7 +22,7 @@ New user, globalreaderjohn has been created and assigned the tenet-level/directo
 ![Confirmation of role assignment](https://imgur.com/P4Vq3by.jpg) 
 
 ### New User Configuration Check
-As observed in the above image, globalreaderjohn's assigned role has been successfully implemented as the user is unable to make password changes for other users. 
+As observed in the below image, globalreaderjohn's assigned role has been successfully implemented as the user is unable to make password changes for other users. 
 
 ![Confirmation of successful assignment](https://imgur.com/nS3aBhr.jpg)
 
