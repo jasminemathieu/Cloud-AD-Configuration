@@ -27,7 +27,7 @@ As observed in the below image, globalreaderjohn's assigned role has been succes
 ![Confirmation of successful assignment](https://imgur.com/nS3aBhr.jpg)
 
 ## Assigning Subscription-level Role
-In this section of the project, subreaderjane was assigned subscription-level role as a reader. 
+In this section of the project, subreaderjane was assigned a subscription-level role as a reader. 
 
 ![Assign reader role](https://imgur.com/5MJFYFD.jpg)
 
