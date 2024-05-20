@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This project will cover the configuration process of new user creation, subscription-level assignment and resource group permissions in Azure using Microsoft Entra ID (formally Azure Active Directory). 
+This project will cover the configuration process of new user creation, subscription-level role assignment and resource group permissions in Azure using Microsoft Entra ID (formally Azure Active Directory). 
 
 ### Azure components needed to complete project:
 
@@ -42,7 +42,7 @@ As shown below while signed in under subreaderjane's account, the assigned role 
 
 ## Assigning Resource Group-level Contributor Permissions
 
-Resource group Permissions Tester has been created in this section. In Access Control (IAM), found within the Subscription component, we are able to add the Privileged administrator role of a contributor to user rgcontributordave.
+Resource group 'Permissions Tester' has been created in this section. In Access Control (IAM), found within the Subscription component, we are able to add the Privileged administrator role of a Contributor to user rgcontributordave.
 
 ![resource group](https://imgur.com/bmeCnpu.jpg)
 
@@ -52,7 +52,7 @@ Resource group Permissions Tester has been created in this section. In Access Co
 
 ### Resource Group-level Contributor Permissions Assignment Check
 
-The below two images above are references to indicate the Resource Group-level Contributor role was correctly configured. The top image reflects all resource groups under the admin account. The second image documents the only one resource group, Permissions Tester, that was assigned to rgcontributordave. 
+The below two images are references to indicate the Resource Group-level Contributor role was correctly configured. The top image reflects all resource groups under the admin account. The second image documents the only one resource group, Permissions Tester, that was assigned to rgcontributordave. 
 
 ![confirm correct rg assignment](https://imgur.com/GGjFTTL.jpg) 
 
