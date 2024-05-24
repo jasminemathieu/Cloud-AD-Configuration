@@ -1,4 +1,4 @@
-# Cloud Active Directory Configuration
+# Active Directory Cloud Configuration: Users, Roles and Permissions
 
 ![Azure AD Logo](https://imgur.com/Kjg7moH.jpg)
 
