@@ -8,7 +8,7 @@
 
 ## Introduction
 
-TThis project covers the configuration process for creating new users, assigning subscription-level roles, and managing resource group permissions in Azure using Microsoft Entra ID (formerly known as Azure Active Directory). We’ll walk through each step with detailed explanations and screenshots. 
+This project covers the configuration process for creating new users, assigning subscription-level roles, and managing resource group permissions in Azure using Microsoft Entra ID (formerly known as Azure Active Directory). We’ll walk through each step with detailed explanations and screenshots. 
 
 ### Azure components needed to complete project:
 
