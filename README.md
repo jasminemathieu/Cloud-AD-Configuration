@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Azure AD Logo](https://imgur.com/Kjg7moH.jpg)
+![Azure AD Logo](https://imgur.com/Bffj9rl.jpg)
 
 </div>
 
