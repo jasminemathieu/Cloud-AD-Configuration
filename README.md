@@ -81,17 +81,17 @@ We confirmed that the role assignment for `rgcontributordave` was successful by 
 
 In this Azure configuration project, we successfully accomplished the following tasks:
 
-    New User Configuration:
-        Created a new user named globalreaderjohn.
-        Assigned the Global Reader role to globalreaderjohn, granting read-only access to all Azure resources.
-        Verified that globalreaderjohn cannot make password changes for other users.
+New User Configuration:
+    - Created a new user named globalreaderjohn.
+    - Assigned the Global Reader role to globalreaderjohn, granting read-only access to all Azure resources.
+    - Verified that globalreaderjohn cannot make password changes for other users.
 
-    Subscription-level Role Assignment:
-        Assigned the Reader role to subreaderjane, providing read-only access to resources within a specific subscription.
+Subscription-level Role Assignment:
+    - Assigned the Reader role to subreaderjane, providing read-only access to resources within a specific subscription.
 
-    Resource Group Permissions:
-        Created a resource group named Permissions Tester.
-        Assigned the Contributor role to rgcontributordave at the resource group level, allowing resource management within the specified group.
+Resource Group Permissions:
+    - Created a resource group named Permissions Tester.
+    - Assigned the Contributor role to rgcontributordave at the resource group level, allowing resource management within the specified group.
 
 By following these steps, we’ve established secure access controls and permissions for users across different levels in Azure. We are also able to regularly review and update permissions as needed to maintain security and compliance.
 
