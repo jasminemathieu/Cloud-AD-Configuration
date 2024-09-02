@@ -16,13 +16,13 @@ This project covers the configuration process for creating new users, assigning 
 
 ### 1. New User Creation
 
-We’ve created a new user named `globalreaderjohn`. Here’s how we did it:
+We’ve created a new user named 'globalreaderjohn'. Here’s how we did it:
 
-![New User Creation](https://imgur.com/EawR6ZZ.jpg)
+![New User Creation](https://imgur.com/BWBgnFh.jpg)
 
 ### 2. Assigning Role to New User
 
-We assigned the `Global Reader` role to `globalreaderjohn`. This role allows read-only access to all resources within the Azure tenant. The confirmation screenshot shows that the role assignment was successful:
+We assigned the Global Reader role to 'globalreaderjohn'. This role allows read-only access to all resources within the Azure tenant. The confirmation screenshot shows that the role assignment was successful:
 
 ![Assign New User Role](https://imgur.com/bwcfRgR.jpg)
 
@@ -30,23 +30,23 @@ We assigned the `Global Reader` role to `globalreaderjohn`. This role allows rea
 
 ### 3. New User Configuration Check
 
-We verified that `globalreaderjohn` cannot make password changes for other users, ensuring the role assignment is effective.
+We verified that 'globalreaderjohn' cannot make password changes for other users, ensuring the role assignment is effective.
 
-![Confirmation of successful assignment](https://imgur.com/nS3aBhr.jpg)
+![Confirmation of successful assignment](https://imgur.com/wttd9SX.jpg)
 
 ## Assigning Subscription-level Role
-Next, we assigned the `Reader` role to another user, `subreaderjane`. This role provides read-only access to resources within a specific subscription.
+Next, we assigned the Reader role to another user, 'subreaderjane'. This role provides read-only access to resources within a specific subscription.
 
-![Assign reader role](https://imgur.com/5MJFYFD.jpg)
+![Assign reader role](https://imgur.com/TMtUUDY.jpg)
 
-![Assign reader role2](https://imgur.com/yLUGAwC.jpg)
+![Assign reader role2](https://imgur.com/vpErpF0.jpg)
 
-![Assign reader role4](https://imgur.com/9v2fzhz.jpg) 
+![Assign reader role4](https://imgur.com/K92QVDH.jpg) 
 
 ### Subscription-level Role Assignment Check
-As shown below while signed in under the `subreaderjane` account, the assigned role has been successfully implemented as marked under the "My role" column. 
+As shown below while signed in under the 'subreaderjane' account, the assigned role has been successfully implemented as marked under the "My role" column. 
 
-![Confirmation of role assignment](https://imgur.com/xN3HJYg.jpg) 
+![Confirmation of role assignment](https://imgur.com/HEOm3pR.jpg) 
 
 ## Resource Group Permissions
 
@@ -54,11 +54,11 @@ As shown below while signed in under the `subreaderjane` account, the assigned r
 
 We created a resource group named Permissions Tester.
 
-![resource group](https://imgur.com/bmeCnpu.jpg)
+![resource group](https://imgur.com/jJu2Uwa.jpg)
 
 ### 2. Assigning Contributor Permissions
 
-We assigned the `Contributor` role to user `rgcontributordave` at the resource group level in Access Control (IAM) component. This role allows managing resources within the specified resource group.
+We assigned the Contributor role to user 'rgcontributordave' at the resource group level in Access Control (IAM) component. This role allows managing resources within the specified resource group.
 
 ![assigning group](https://imgur.com/UlLmIKY.jpg)
 
@@ -66,11 +66,11 @@ We assigned the `Contributor` role to user `rgcontributordave` at the resource g
 
 ## Resource Group-level Contributor Permissions Assignment Check
 
-We confirmed that the role assignment for `rgcontributordave` was successful by checking the “My role” column under their account.
+We confirmed that the role assignment for 'rgcontributordave' was successful by checking the “My role” column under their account.
 
 ![confirm correct rg assignment](https://imgur.com/GGjFTTL.jpg) 
 
-![confirm correct rg assignment2](https://imgur.com/m4WXSqs.jpg) 
+![confirm correct rg assignment2](https://imgur.com/SmpD5zE.jpg) 
 
 
 ## Conclusion
