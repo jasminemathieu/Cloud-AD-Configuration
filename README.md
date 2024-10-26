@@ -22,7 +22,7 @@ We’ve created a new user named 'globalreaderjohn'. Here’s how we did it:
 
 ### 2. Assigning Role to New User
 
-We assigned the Global Reader role to 'globalreaderjohn'. This role allows read-only access to all resources within the Azure tenant. The confirmation screenshot shows that the role assignment was successful:
+We assigned the Global Reader role to 'globalreaderjohn'. This role allows read-only access to all resources within the Azure tenant. The confirmation image shows that the role assignment was successful:
 
 ![Assign New User Role](https://imgur.com/bwcfRgR.jpg)
 
